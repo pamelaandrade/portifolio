@@ -1,0 +1,81 @@
+/* Header Configuration */
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #2d737e;
+}
+
+.rounded-circle {
+    padding-left: 15%;
+}
+
+.navbar-nav {
+    padding-right: 10%;
+}
+
+
+/* About Me configuration */
+
+.container_aboutme {
+    /* background: #3a2344; */
+    padding-right: 20%;
+    padding-left: 20%;
+    margin-top: 6%;
+}
+
+
+/* About Skills */
+
+.container_shllis {
+    align-items: center;
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+
+/* Interest */
+
+.container_interest {
+    /* background: #3a2344; */
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+
+/* Resume */
+
+.btn-resume {
+    background-color: #2d737e;
+}
+
+
+/* Geral configuration */
+
+.fonttitlepurple {
+    font-family: 'Lato', sans-serif;
+    color: #3a2344;
+}
+
+.fonttext {
+    font-family: 'Raleway', sans-serif;
+}
+
+.bg-gradient-blue {
+    background: linear-gradient(131.26deg, #fff 40%, #2d737e 100%);
+}
+
+.bg-solidblue {
+    background: #2d737e;
+    /* background-color: #2d737e; */
+}
+
+.bg-solidlight {
+    background: #fff;
+}
+
+.bg-solidpurple {
+    background: #7d5185;
+}
+
+.bg-primary {
+    background-color: #2d737e!important;
+}
